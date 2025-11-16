@@ -1,5 +1,7 @@
 # WattForge (Junction)
 
+_For judging purposes, the required .csv output files are in the **output** folder_
+
 A full-stack demo for energy forecasting and AI-assisted analysis. Upload your historical workbook, generate synthetic forecasts (hourly and monthly), and optionally blend with Gemini-based hyper training. The UI is React + Vite + Tailwind; the backend is Node/Express.
 
 ## What the project does
